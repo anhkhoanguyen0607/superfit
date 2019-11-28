@@ -45,6 +45,7 @@ namespace VietJackCsharp
             }
             Console.Write("\n\n");
             Console.Write("Chinh sua");
+            Console.Write("Chinh sua patch 1");
             Console.ReadKey();
             
         }
