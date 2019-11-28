@@ -44,8 +44,9 @@ namespace VietJackCsharp
                 Console.Write("{0}  ", arr1[i]);
             }
             Console.Write("\n\n");
-
+            Console.Write("Chinh sua");
             Console.ReadKey();
+            
         }
     }
 }
